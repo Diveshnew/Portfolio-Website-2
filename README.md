@@ -35,6 +35,7 @@ Floating Navbar
 Bento Grid
 Gradient Animation
 Github globe
+3D Animated Pin
 ```
 
 ## Using next-themes for Dark Mode
